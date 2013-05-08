@@ -1,22 +1,23 @@
 {
-    "name": "ffum",
-    "description": "Find Fastest Ubuntu Mirror",
-    "homepage": "https://github.com/tentaculo/ffum",
-    "keywords": [
-        "lint"
-    ],
-    "version": "0.0.1",
-    "author" : "tentaculo.ws <doc@tentaculo.ws>",
-    "main": "./ffum.js",
-    "engines": {
-        "node": ">=0.4.12"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/tentaculo/ffum.git"
-    },
-    "bugs": {
-        "url": "https://github.com/tentaculo/ffum/issues"
-    },
-    "licenses": []
+  "name": "ffum",
+  "description": "Find Fastest Ubuntu Mirror",
+  "homepage": "https://github.com/tentaculo/ffum",
+  "version": "0.0.1",
+  "author": "tentaculo.ws <doc@tentaculo.ws>",
+  "main": "ffum.js",
+  "bin": { "ffum": "ffum.js" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tentaculo/ffum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tentaculo/ffum/issues"
+  },
+  "licenses": [],
+  "readmeFilename": "README.md",
+  "gitHead": "9e4b0a525c574fed800ad30bc6408b75f9ca9a04",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD"
 }
