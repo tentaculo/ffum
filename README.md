@@ -1,10 +1,10 @@
 # Find Fastest Ubuntu Mirror
 
 ## Install
-	$ npm install ffum
+	sudo npm install -g ffum
 
 ## Run
-	$ ffum
+	ffum
 
 ## Search & replace
-	$ sudo nano /etc/apt/sources.list
+	sudo nano /etc/apt/sources.list
