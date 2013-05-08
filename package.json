@@ -2,7 +2,7 @@
   "name": "ffum",
   "description": "Find Fastest Ubuntu Mirror",
   "homepage": "https://github.com/tentaculo/ffum",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "tentaculo.ws <doc@tentaculo.ws>",
   "main": "ffum.js",
   "bin": { "ffum": "ffum.js" },
