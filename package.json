@@ -1,0 +1,22 @@
+{
+    "name": "ffum",
+    "description": "Find Fastest Ubuntu Mirror",
+    "homepage": "https://github.com/tentaculo/ffum",
+    "keywords": [
+        "lint"
+    ],
+    "version": "0.0.1",
+    "author" : "tentaculo.ws <doc@tentaculo.ws>",
+    "main": "./ffum.js",
+    "engines": {
+        "node": ">=0.4.12"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tentaculo/ffum.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tentaculo/ffum/issues"
+    },
+    "licenses": []
+}
