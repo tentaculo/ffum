@@ -1,3 +1,4 @@
 # Find Fastest Ubuntu Mirror
 
-	npm install ffum
+	$ npm install ffum
+	$ ffum
